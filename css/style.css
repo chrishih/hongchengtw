@@ -1912,7 +1912,7 @@ figure figcaption {
   z-index: 1;
   background: #fff;
   /*20191229改margin-top: -100px;*/
-  /*20191229新增*/top: -100px;
+  /*20191229新增*/top: -60px;
   -webkit-box-shadow: 0 0 20px -5px rgba(0, 0, 0, 0.1);
   box-shadow: 0 0 20px -5px rgba(0, 0, 0, 0.1); }
   .featured-property-half.posi_d {margin-top: 0; margin-bottom: 3rem;}
