@@ -1952,6 +1952,7 @@ figure figcaption {
 
 .hero-slider {
 	overflow: hidden;
+  /*20191229新增*/height: 100vh;
 }
 
 /*20191229新增*/@media screen and (max-width: 768px) {
