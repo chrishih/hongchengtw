@@ -298,14 +298,14 @@ jQuery(document).ready(function($) {
         autoplay: false,
 	});
 
-	// $(window).scroll(function() {
-	// 	if ($(this).scrollTop() > 150){  
-	// 		$('.site-navbar').addClass("sticky");
-	// 	}
-	// 	else{
-	// 		$('.site-navbar').removeClass("sticky");
-	// 	}
-	// });
+	$(window).scroll(function() {
+		if ($(this).scrollTop() > 150){  
+			$('.site-navbar').addClass("sticky");
+		}
+		else{
+			$('.site-navbar').removeClass("sticky");
+		}
+	});
 
 
 	
