@@ -229,7 +229,7 @@ jQuery(document).ready(function($) {
 	siteCarousel();
 
 	
-
+	//20200101移除 
 	var siteStellar = function() {
 		$(window).stellar({
 	    responsive: true,
@@ -237,7 +237,8 @@ jQuery(document).ready(function($) {
 	    parallaxElements: true,
 	    horizontalScrolling: false,
 	    hideDistantElements: false,
-	    scrollProperty: 'scroll'
+	    scrollProperty: 'transform'
+	    // scrollProperty: 'scroll'
 	  });
 	};
 	siteStellar();
