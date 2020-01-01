@@ -2223,7 +2223,7 @@ figure.figure .graphic img {margin: 0;}
   .featured-property-half.apartdetail .text {padding: 30px 25px;}
 }
 
-.bread { color: #fff; position: relative; top: -100px; font-size: 14px;}
+.bread { color: #fff; position: relative; top: -60px; font-size: 14px;}
 .bread.posinormal {top: -50px;}
 .bread ul {display: flex; padding: 0; list-style: none;}
 .bread ul li {padding-left: 20px; position: relative;}
