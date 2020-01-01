@@ -230,18 +230,17 @@ jQuery(document).ready(function($) {
 
 	
 	//20200101移除 
-	var siteStellar = function() {
-		$(window).stellar({
-	    responsive: true,
-	    parallaxBackgrounds: true,
-	    parallaxElements: true,
-	    horizontalScrolling: false,
-	    hideDistantElements: false,
-	    scrollProperty: 'transform'
-	    // scrollProperty: 'scroll'
-	  });
-	};
-	siteStellar();
+	// var siteStellar = function() {
+	// 	$(window).stellar({
+	//     responsive: true,
+	//     parallaxBackgrounds: true,
+	//     parallaxElements: true,
+	//     horizontalScrolling: false,
+	//     hideDistantElements: false,
+	//     scrollProperty: 'transform'
+	//   });
+	// };
+	// siteStellar();
 
 	var siteCountDown = function() {
 
