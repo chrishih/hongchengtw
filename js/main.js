@@ -299,7 +299,7 @@ jQuery(document).ready(function($) {
 	});
 
 	$(window).scroll(function() {
-		if ($(this).scrollTop() > 150){  
+		if ($(this).scrollTop() > 70){  
 			$('.site-navbar').addClass("sticky");
 		}
 		else{
